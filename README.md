@@ -6,13 +6,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- 
+
 
 
 ## Overview
@@ -33,7 +31,7 @@ To make my project stand out, I included the following enhancements:
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://brownsonjoy1811.github.io/QR-bar/)
+- Live Site URL: [Add live site URL here](https://github.com/brownsonjoy1811/QR_bar.git)
 
 
 ### Built with
@@ -47,9 +45,7 @@ To make my project stand out, I included the following enhancements:
 
 ## Useful Resources
 - MDN Web Docs
-
 ## Author
 - Website - [brownson1811](https://brownsonjoy1811.github.io/QR-bar/)
 - Frontend Mentor - [@brownsonjoy1811](https://www.frontendmentor.io/profile/brownsonjoy1811)
 - Twitter - [@brownson1811](https://x.com/brownson1811?s=09)
-
