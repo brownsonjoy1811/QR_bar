@@ -31,7 +31,7 @@ To make my project stand out, I included the following enhancements:
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://github.com/brownsonjoy1811/QR_bar.git)
+- Live Site URL: [Add live site URL here](https://brownsonjoy1811.github.io/QR_bar/)
 
 
 ### Built with
@@ -46,6 +46,6 @@ To make my project stand out, I included the following enhancements:
 ## Useful Resources
 - MDN Web Docs
 ## Author
-- Website - [brownson1811](https://brownsonjoy1811.github.io/QR-bar/)
+- Website - [brownson1811](https://brownsonjoy1811.github.io/QR_bar/)
 - Frontend Mentor - [@brownsonjoy1811](https://www.frontendmentor.io/profile/brownsonjoy1811)
 - Twitter - [@brownson1811](https://x.com/brownson1811?s=09)
